@@ -1,5 +1,5 @@
 # Poplin
- Poplin is a small game engine I'm developping is a means to learn about game engines.
+ Poplin is a small game engine I'm developping as a means to learn about game engines.
 
 ## Features
 - 2D Rendering with OpenGL
